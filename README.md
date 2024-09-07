@@ -6,8 +6,8 @@ This project is a **Cookie Clicker**-like game built with **React**. The goal of
 
 - Clickable button to generate cookies.
 - Upgrades that automatically increase cookie production.
-- Progress display showing collected cookies.
-- Responsive design for both desktop and mobile devices.
+- Progress display showing collected cookies and counted cookies per second.
+- PopUps show up if you achieve a certain amount of cookies.
 
 ## Installation
 
