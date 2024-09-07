@@ -30,3 +30,13 @@ To run the project locally, follow these steps:
    npm start
    ```
    The app should now be running at http://localhost:3000/.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- JavaScript (ES6+): For the game logic.
+- HTML5/CSS3: For styling and layout.
+
+## Contributing
+
+Pull requests are welcome! If you have ideas or find bugs, feel free to create an issue or fork the repository.
