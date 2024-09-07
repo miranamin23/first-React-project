@@ -1,8 +1,19 @@
-# React + Vite
+# Cookie Clicker Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **Cookie Clicker**-like game built with **React**. The goal of the game is to generate an ever-increasing number of "Cookies" by clicking and upgrading. Have fun playing and improving your high score!
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clickable button to generate cookies.
+- Upgrades that automatically increase cookie production.
+- Progress display showing collected cookies.
+- Responsive design for both desktop and mobile devices.
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
